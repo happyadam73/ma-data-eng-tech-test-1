@@ -2,4 +2,3 @@ ipython-sql
 pandas
 pysqlite3
 pyarrow
-uk-covid19
